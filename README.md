@@ -1,5 +1,8 @@
 # 💫 About Me:
-⚒️ Proudly building with the Enterprise Platforms and Architecture team.<br>🔭 I engineer fun with Go and a soldering iron in my free time.<br>💭 Ask me about my dog 🐕 daughter 👶 & split keyboard.
+🚀 Proudly building with the Enterprise Platforms and Architecture team.
+🔭 I engineer fun with Go and a soldering iron in my free time.
+💡 Driven by curiosity and a passion for lifelong learning, I love exploring natural computing and crafting scalable, high-performance software.
+💬 Ask me about my dog 🐕, daughter 👶, or my obsession with split keyboards.
 
 
 ## 🌐 Socials:
